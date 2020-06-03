@@ -1,0 +1,40 @@
+.cadastro-container {
+    width: 100%;
+    max-width: 800px;
+    height: 350px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+ 
+}
+
+.cadastro-container header {
+    width: 100%;
+    max-width: 800px;
+    height: 350%;
+    margin-right: auto;
+
+}
+
+.cadastro-container .content {
+    width: 100%;
+    max-width: 380px;
+    height: 225px;
+    padding: 10px;
+    margin-left: 30%;
+    background: #f0f0f5;
+    box-shadow: 0 0 100px rgba (0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+}
+.cadastro-container .content form {
+    margin-left: auto;
+    width: 100%;
+    max-width: 800px;
+    padding: 10px;
+}
+
+

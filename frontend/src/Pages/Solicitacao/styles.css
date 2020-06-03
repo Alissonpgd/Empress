@@ -1,0 +1,54 @@
+.solicitation-container {
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    margin-left: 20px;
+    padding: 50 20px;
+    margin: 32px auto ;
+}
+.solicitation-container .content {
+    width: 100%;
+    padding: 70px;
+    background: #f0f0f5;
+    box-shadow: 0 0 100px rgba (0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.solicitation-container .content section {
+    width: 100%;
+    max-width: 450px; 
+    color:#181424;
+}
+.solicitation-container .content button{
+    margin-top: 0px;
+}
+
+.solicitation-container .content section h1 {
+    margin: 30px 30px 30px;
+    font-size: 20px;
+    text-shadow: 0.1em 0.2em rgb(174, 174, 199);
+    color:#382570;
+}
+
+.solicitation-container .content section p {
+    font-size: 18px;
+    color:#382570;
+    line-height: 32px;
+}
+
+.solicitation-container .content form {
+    width: 100%;
+    max-width: 350px;
+    margin: 10px 15px 20px;
+}
+
+.solicitation-container .content form input {
+    margin-top: 8px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
